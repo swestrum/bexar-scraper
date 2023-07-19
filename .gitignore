@@ -1,4 +1,4 @@
-.vscode/*
+.vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -6,7 +6,7 @@
 !.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
-.history/
+.history
 
 # Built Visual Studio Code Extensions
 *.vsix
@@ -15,3 +15,4 @@
 __pycache__/
 
 *.db
+*.csv
